@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/3D_Cake/',
+  base: '/uferminjamie.github.io/',
 
   optimizeDeps: {
     exclude: [
