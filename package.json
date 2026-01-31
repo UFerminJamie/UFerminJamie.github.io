@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^5.3.3"
+  },
+  "name": "3D_Cake",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:UFerminJamie/3D_Cake.git",
+  "author": "Jamie",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  }
+}
